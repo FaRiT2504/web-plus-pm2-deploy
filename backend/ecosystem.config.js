@@ -10,7 +10,7 @@ module.exports = {
   apps: [
     {
       name: 'mesto',
-      script: 'dist/app.js',
+      script: './dist/app.js',
     },
   ],
 
